@@ -1,0 +1,18 @@
+//Jowel Andrie Agtang
+//BSIT NETSEC 1-1
+
+package messagevalue;
+
+
+public class MessageValue {
+
+   
+    public static void main(String[] args) {
+      String message1 = "The value of pie is:";  
+      double value = 3.1415;  
+      System.out.println(message1);  
+      System.out.println(value);
+        
+    }
+    
+}

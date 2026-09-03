@@ -1,0 +1,22 @@
+//Jowel Andrie A. Agtang
+//BSIT NETSEC 1-1
+package colors;
+
+
+public class Colors {
+
+    
+    public static void main(String[] args) {
+    
+        String color1 = "yellow";
+        String color2 = "green";
+        String color3 = "red";
+        String color4 = "blue";
+        System.out.println(color1 );
+        System.out.println(color2 );
+        System.out.println(color3 );
+        System.out.println(color4);
+        
+    }
+    
+}
